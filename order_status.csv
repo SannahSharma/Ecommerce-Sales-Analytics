@@ -1,0 +1,8 @@
+order_status,order_id
+approved,3
+canceled,566
+delivered,115035
+invoiced,371
+processing,375
+shipped,1244
+unavailable,7
